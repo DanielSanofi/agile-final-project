@@ -1,5 +1,5 @@
 ---
-name: ISSUE_TEMPLATE
+name: user_story
 about: User story
 title: ''
 labels: ''
