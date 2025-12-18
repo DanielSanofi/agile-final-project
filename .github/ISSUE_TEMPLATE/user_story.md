@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
--- As a [role]
+* As a [role /user/admin/superuser]
 
--- I need [function]
+* I need [function - what do i want]
 
--- so that [benefit]
+* so that [benefit - why do I want it]
 
 ---------------------------------
 
-Acceptance criteria
--- Given [context]
+Acceptance criteria, the definition of done:
+* Given [context - which user]
 
--- When [action]
+* When [action - does what]
 
--- Then [outcome]
+* Then [outcome - to do what]
